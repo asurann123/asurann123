@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/asurann123"><img src="https://api.daily.dev/devcards/0dcde90b1fa741d1ad80e14237294f35.png?r=4ct" width="400" alt="Sota's Dev Card"/></a>
+
 - 👋 Hi, I’m @asurann123
 - 👀 I’m interested in Something
 - 🌱 I’m currently learning PHP
